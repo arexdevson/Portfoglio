@@ -25,3 +25,9 @@ Onn this Folder we have 5 projects which i've made with so much care to reach so
 - seaborn
 - sklearn (linear regression)
 - sklearn (random forest)
+- sklearn.cluster import KMeans
+- Plotly
+
+and so on.. these are some of the main things that i`ve brought on these files.
+Hope you enjoy it !!
+?)
