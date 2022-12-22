@@ -13,19 +13,19 @@ On this Folder we have 6 projects which i've made with so much care to reach som
  - Comission automation (in resume i get an excel file and calculate it accordingly with my company specifities) - using openpyxl,os and pandas library
  - Webscraping: Monthly i need to access a platform which give me a coupon info about our clients and get these info, but it's almost 600 clients per month and on the past i've been doing it click-by-click...so i've automated it using selenium to get these info while i do other reports. - mainly using selenium library
  
- libraries:
+ Libraries:
 - Pandas
 - Selenium
 - Datetime
 - Pyautogui
-- openpyxl
-- matplotlib.pyplot
-- numpy
-- time
-- seaborn
-- sklearn (linear regression)
-- sklearn (random forest)
-- sklearn.cluster import KMeans
+- Openpyxl
+- Matplotlib.pyplot
+- Numpy
+- Time
+- Seaborn
+- Sklearn (linear regression)
+- Sklearn (random forest)
+- Sklearn.cluster import KMeans
 - Plotly
 
 and so on.. these are some of the main things that i`ve brought on these files.
