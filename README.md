@@ -1,5 +1,5 @@
-# Projeto_LIbrary
-Meus projetos de curioso (`i`m from Brazil lol)
+
+My development Projects! (`i`m from Brazil lol)
 
 Hello there!
 On this Folder we have 6 projects which i've made with so much care to reach some aspects like:
